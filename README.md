@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:0e7490&height=200&section=header&text=Alberto%20Elizondo&fontSize=48&fontColor=e0f2fe&fontAlignY=38&desc=Software%20Developer%20%7C%20C%23%20%2F%20.NET%20%7C%20Fitness-Tech%20Builder&descAlignY=58&descColor=7dd3fc&animation=fadeIn" />
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com//in/elizondo-alberto">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:aelizondo@southern.edu">
   <img src="https://img.shields.io/badge/Email-0d1b2a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
 </a>
 &nbsp;
