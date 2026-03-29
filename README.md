@@ -112,7 +112,7 @@ Currently looking for **full-time Software Developer roles** in the **Kansas Cit
 ## Currently
 
 - 🔍 Actively interviewing for **full-time SWE roles** — Kansas City metro, available June 2026
-- 📬 Reach me at: `YOUR_EMAIL@gmail.com` or [LinkedIn](https://linkedin.com/in/elizondo-alberto)
+- 📬 Reach me at: `aelizondo@southern.edu` or [LinkedIn](https://linkedin.com/in/elizondo-alberto)
 - 💡 Interested in: backend systems, fitness-tech, data pipelines, API architecture
 
 ---
