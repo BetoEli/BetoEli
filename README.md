@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:0e7490&height=200&section=header&text=Alberto%20Elizondo&fontSize=48&fontColor=e0f2fe&fontAlignY=38&desc=Software%20Developer%20%7C%20C%23%20%2F%20.NET%20%7C%20Fitness-Tech%20Builder&descAlignY=58&descColor=7dd3fc&animation=fadeIn" />
 
-<a href="https://www.linkedin.com//in/elizondo-alberto">
+<a href="https://www.linkedin.com/in/elizondo-alberto">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+move+data+with+purpose.;C%23+%2F+.NET+8+%7C+REST+APIs+%7C+OAuth+2.0+%7C+Docker;Wearable+fitness+data+pipelines+%E2%86%92+cloud+%E2%86%92+insights.;Open+to+full-time+roles+in+Kansas+City+%E2%80%94+June+2026." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+move+data+with+purpose.;C%23+%2F+.NET+8+%7C+REST+APIs+%7C+OAuth+2.0+%7C+Docker;Wearable+fitness+data+pipelines+%E2%86%92+cloud+%E2%86%92+insights.;Incoming+Software+Developer+Intern+%40+Americo+%E2%80%94+June+2026." />
 
 </div>
 
@@ -27,7 +27,7 @@
 
 I'm a senior CS student at Southern Adventist University graduating **May 2026**, with hands-on experience building production-grade backend systems at CIRC — the Center of Innovation & Research in Computing. I write C# for a living, care deeply about clean architecture, and have a soft spot for the intersection of **fitness data + software engineering**.
 
-Currently looking for **full-time Software Developer roles** in the **Kansas City metro**, available June 2026.
+Starting June 2026 as a **Software Developer Intern at Americo**.
 
 - 🏗️ Building REST API pipelines for wearable fitness data ingestion (Strava, Polar) at CIRC
 - 🎓 B.S. Computer Science — Web Development emphasis, SAU
@@ -111,9 +111,10 @@ Currently looking for **full-time Software Developer roles** in the **Kansas Cit
 
 ## Currently
 
-- 🔍 Actively interviewing for **full-time SWE roles** — Kansas City metro, available June 2026
-- 📬 Reach me at: `aelizondo@southern.edu` or [LinkedIn](https://linkedin.com/in/elizondo-alberto)
+- 💼 Incoming **Software Developer Intern @ Americo** — June 2026
+- 🎓 Graduating Southern Adventist University — May 2026
 - 💡 Interested in: backend systems, fitness-tech, data pipelines, API architecture
+- 📬 `aelizondo@southern.edu` · [LinkedIn](https://linkedin.com/in/elizondo-alberto)
 
 ---
 
