@@ -97,11 +97,17 @@ Starting June 2026 as a **Software Developer Intern at Americo**.
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BetoEli&theme=github_dark&bg_color=0d1b2a&border_color=1b3a5c&title_color=7dd3fc&text_color=e0f2fe&icon_color=38bdf8" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BetoEli&theme=github_dark&bg_color=0d1b2a&border_color=1b3a5c&title_color=7dd3fc&text_color=e0f2fe" />
 &nbsp;
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BetoEli&theme=github_dark&bg_color=0d1b2a&border_color=1b3a5c&title_color=7dd3fc&text_color=e0f2fe" />
+&nbsp;
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BetoEli&theme=github_dark&bg_color=0d1b2a&border_color=1b3a5c&title_color=7dd3fc&text_color=e0f2fe&utcOffset=-6" />
 
 <br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BetoEli&theme=github_dark&bg_color=0d1b2a&border_color=1b3a5c&title_color=7dd3fc&text_color=e0f2fe" />
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BetoEli&theme=dark&background=0d1b2a&border=1b3a5c&ring=38bdf8&fire=0e7490&currStreakLabel=7dd3fc&sideLabels=e0f2fe&dates=94a3b8&sideNums=e0f2fe&currStreakNum=7dd3fc" />
 
