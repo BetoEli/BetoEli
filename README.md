@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+move+data+with+purpose.;C%23+%2F+.NET+8+%7C+REST+APIs+%7C+OAuth+2.0+%7C+Docker;Wearable+fitness+data+pipelines+%E2%86%92+cloud+%E2%86%92+insights.;Incoming+Software+Developer+Intern+%40+Americo+%E2%80%94+June+2026." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+backend+systems+that+move+data+with+purpose.;C%23+%2F+.NET+%7C+REST+APIs+%7C+OAuth+2.0+%7C+Docker;Wearable+fitness+data+pipelines+%E2%86%92+cloud+%E2%86%92+insights.;Incoming+Software+Developer+Intern+%40+Americo+%E2%80%94" />
 
 </div>
 
@@ -32,7 +32,7 @@ Starting June 2026 as a **Software Developer Intern at Americo**.
 - 🏗️ Building REST API pipelines for wearable fitness data ingestion (Strava, Polar) at CIRC
 - 🎓 B.S. Computer Science — Web Development emphasis, SAU
 - 📍 Based in Kansas City, KS
-- ⚽ Soccer player, gym-goer, Garmin & Strava enthusiast
+- ⚽ Soccer player, Fitness Enthusiast
 - 🌐 Bilingual: English / Spanish
 
 ---
