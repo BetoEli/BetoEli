@@ -97,9 +97,9 @@ Starting June 2026 as a **Software Developer Intern at Americo**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BetoEli&show_icons=true&theme=github_dark&bg_color=0d1b2a&border_color=1b3a5c&title_color=7dd3fc&icon_color=38bdf8&text_color=e0f2fe&hide_border=false&count_private=true" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BetoEli&theme=github_dark&bg_color=0d1b2a&border_color=1b3a5c&title_color=7dd3fc&text_color=e0f2fe&icon_color=38bdf8" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetoEli&layout=compact&theme=github_dark&bg_color=0d1b2a&border_color=1b3a5c&title_color=7dd3fc&text_color=e0f2fe&hide_border=false&langs_count=6" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BetoEli&theme=github_dark&bg_color=0d1b2a&border_color=1b3a5c&title_color=7dd3fc&text_color=e0f2fe" />
 
 <br/><br/>
 
